@@ -62,3 +62,5 @@ terbaik dalam penawaran kelas Deskera ERP dan Deskera Inventory.
 
 Deskera ERP memfasilitasi pencatatan dan pemrosesan semua transaksi keuangan dari faktur, pesanan pembelian dan pelacakan
 inventaris ke tanda terima. Deskera ERP menyediakan cara cepat dan efisien untuk mengelola vendor Anda dan proses terkait pelanggan.
+
+https://www.tcs.com/banking-financial-services
